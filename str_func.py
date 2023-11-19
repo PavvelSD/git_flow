@@ -17,3 +17,4 @@ def second_func():
 def conflict():
     return 404
     
+# Попытка вызвать конфликт №3
