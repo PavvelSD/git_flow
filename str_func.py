@@ -12,3 +12,5 @@ def second_func():
     '''
     user_text = input()
     return user_text.title()
+
+# Попытка вызвать конфликт:)
